@@ -1,0 +1,27 @@
+---
+id: 12197543
+name: Commander of Swords
+type: Trap Card
+frameType: trap
+desc: |-
+  When your opponent draws for their normal draw in their Draw Phase: They reveal the card(s) they drew, then if any is a Spell/Trap Card, you apply 1 of these effects.
+  ● Discard all cards they drew.
+  ● Destroy 1 Spell/Trap Card they control.
+race: Normal
+card_sets:
+- set_name: Galactic Overlord
+  set_code: GAOV-EN068
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.03'
+card_images:
+- id: 12197543
+  image_url: https://images.ygoprodeck.com/images/cards/12197543.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/12197543.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/12197543.jpg
+card_prices:
+- cardmarket_price: '0.06'
+  tcgplayer_price: '0.17'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.49'
